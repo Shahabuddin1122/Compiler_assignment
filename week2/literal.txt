@@ -1,0 +1,5 @@
+
+Literal: The LCM of %d and %d is %d.\n 22
+Literal: Enter two positive integers:  33
+Literal: %d %d 34
+Literal: GCD  %d\n\n 37

@@ -1,0 +1,28 @@
+Line No. <0>: Token <KEYWORD> Lexeme <INT> found
+Line No. <0>: Token <FUNCTION> Lexeme <main> found
+Line No. <0>: Token <LPAREN> Lexeme <(> found
+Line No. <0>: Token <RPAREN> Lexeme <)> found
+Line No. <0>: Token <LCURL> Lexeme <{> found
+Line No. <1>: Token <KEYWORD> Lexeme <INT> found
+Line No. <1>: Token <ID> Lexeme <a> found
+Line No. <1>: Token <COMMA> Lexeme <,> found
+Line No. <1>: Token <ID> Lexeme <b> found
+Line No. <1>: Token <SEMMICOLON> Lexeme <;> found
+Line No. <2>: Token <ID> Lexeme <a> found
+Line No. <2>: Token <ASSIGNOP> Lexeme <=> found
+Line No. <2>: Token <ID> Lexeme <a> found
+Line No. <2>: Token <ADDOP> Lexeme <+> found
+Line No. <2>: Token <CONST_INT> Lexeme <1> found
+Line No. <2>: Token <SEMMICOLON> Lexeme <;> found
+Line No. <3>: Token <KEYWORD> Lexeme <CHAR> found
+Line No. <3>: Token <ID> Lexeme <ch> found
+Line No. <3>: Token <ASSIGNOP> Lexeme <=> found
+Line No. <3>: Token <CONST_CHAR> Lexeme <'a'> found
+Line No. <3>: Token <SEMMICOLON> Lexeme <;> found
+Single line Comment: // a comment
+Multiple line Comment: /** another
+*** comment ***/
+Line No. <9>: Token <KEYWORD> Lexeme <RETURN> found
+Line No. <9>: Token <CONST_INT> Lexeme <0> found
+Line No. <9>: Token <SEMMICOLON> Lexeme <;> found
+Line No. <10>: Token <RCURL> Lexeme <}> found

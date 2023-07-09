@@ -1,0 +1,10 @@
+
+Function:GCD 2
+Function:LCM 13
+Function:printf 22
+Function:main 29
+Function:printf 33
+Function:scanf 34
+Function:GCD 36
+Function:printf 37
+Function:LCM 39

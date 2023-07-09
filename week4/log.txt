@@ -1,0 +1,20 @@
+0--> <x,IDENTIFIER>  <d,IDENTIFIER>  <n,IDENTIFIER>  <i,IDENTIFIER> 
+1-->
+2-->
+3-->
+4--> <a,IDENTIFIER>  <p,IDENTIFIER>  <f,IDENTIFIER> 
+5-->
+6-->
+7-->
+8--> <c,IDENTIFIER>  <m,IDENTIFIER> 
+9-->
+10-->
+11-->
+12--> <y,IDENTIFIER> 
+13-->
+14-->
+15-->
+16--> <b,IDENTIFIER> 
+17-->
+18-->
+19-->

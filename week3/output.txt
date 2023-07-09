@@ -1,0 +1,1 @@
+<KEYWORD, INT ><Function, main >< LPAREN,( >< RPAREN,) >< LCURL,{ ><KEYWORD, INT ><ID, a >< COMMA, , ><ID, b >< SEMMICOLON,; ><ID, a >< ASSIGNOP,= ><ID, a >< ADDOP,+ ><CONST_INT, 1 >< SEMMICOLON,; ><KEYWORD, CHAR ><ID, ch >< ASSIGNOP,= ><CONST_CHAR, 'a' >< SEMMICOLON,; ><KEYWORD, RETURN ><CONST_INT, 0 >< SEMMICOLON,; >< RCURL,} >
